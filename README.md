@@ -18,5 +18,5 @@ https://github.com/adam-arold/emacs-config-tutorial
 
 
 # Other sources
-https://www.youtube.com/watch?v=XTuzbY1YyzM </br>
-https://www.amazon.com/Learning-Emacs-Third-Debra-Cameron/dp/0596006489
+Youtube video: https://www.youtube.com/watch?v=XTuzbY1YyzM </br>
+Learning GNU Emacs https://www.amazon.com/Learning-Emacs-Third-Debra-Cameron/dp/0596006489
