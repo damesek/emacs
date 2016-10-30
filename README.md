@@ -12,5 +12,6 @@ Solve with this line: apt-get install lib32stdc++6 (nem számít, hogy 64-en vag
 
 4) emacs
 
-# Adam-Arold Clojure setup summary /from Clojure Budapest Meetup
+# Adam-Arold Clojure setup summary 
+// from Clojure Budapest Meetup
 https://github.com/adam-arold/emacs-config-tutorial
