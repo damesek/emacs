@@ -15,3 +15,8 @@ Solve with this line: apt-get install lib32stdc++6
 # Adam-Arold Clojure setup summary 
 // from Clojure Budapest Meetup
 https://github.com/adam-arold/emacs-config-tutorial
+
+
+# Other sources
+https://www.youtube.com/watch?v=XTuzbY1YyzM
+https://www.amazon.com/Learning-Emacs-Third-Debra-Cameron/dp/0596006489
