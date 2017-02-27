@@ -24,6 +24,6 @@ cd emacs-25.1/
 --with-x-toolkit=lucid
 
 make
-sudo make install prefix=/usr/local/stow/emacs-25.1"
+sudo make install prefix=/usr/local/stow/emacs-25.1
 cd /usr/local/stow
-sudo stow emacs-25.1
+sudo emacs-25.1
