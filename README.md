@@ -1,5 +1,7 @@
-# eMacs Ubuntu 14.04 install
+# Compile eMacs 25.1 on Ubuntu 14.04 (installation step by step tutorials) & on Mac OSX
 eMacs Cljure Ubuntu 14.04 install and setup
+
+Please check the detailed tutorial files.
 
 
 1) sudo apt-get install build-essential
