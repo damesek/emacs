@@ -1,10 +1,9 @@
 # Compile eMacs 25.1 on Ubuntu 14.04 (installation step by step tutorials) & on Mac OSX
-eMacs Cljure Ubuntu 14.04 install and setup
+Please check the detailed tutorial files. 
+Here come just a few basic steps. Don't forget install the dependencies too (emacs24).
 
-Please check the detailed tutorial files.
 
-
-1) sudo apt-get install build-essential
+1) ```sudo apt-get install build-essential```
 2) sudo apt-get install build-dep emacs
 
 If you get error message: E: Unable to locate package build-dep
