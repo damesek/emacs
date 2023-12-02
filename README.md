@@ -1,3 +1,17 @@
+# 2023 Update
+
+This page has some examples of starter scripts: https://github.com/railwaycat/homebrew-emacsmacport/blob/master/docs/emacs-start-helpers.md
+
+The following script worked for me:
+
+```bash
+#!/bin/bash
+exec $(brew --prefix)/opt/emacs-mac/Emacs.app/Contents/MacOS/Emacs.sh "$@"
+```
+
+Installing emacs-mac with brew install `emacs-mac --with-starter` will create this script automatically instead of the emacs symlink. Then starting Emacs with emacs works without the input issues.
+
+
 # Compile eMacs 25.1 on Ubuntu 14.04 (installation step by step tutorials) & on Mac OSX
 Please check the detailed tutorial files. 
 Here come just a few basic steps. Don't forget install the dependencies too (emacs24).
